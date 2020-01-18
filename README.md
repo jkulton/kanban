@@ -1,3 +1,9 @@
+![Reaction](banner.png)
+
+# Reaction
+
+---
+
 # Rails + Webpack + React + Heroku
 
 This starter app provides you with all you need to start developing reaction. The project uses rails with webpacker gem that provides the tooling a modern full-stack workflow needs. The webpacker gem provides the following functionality:
